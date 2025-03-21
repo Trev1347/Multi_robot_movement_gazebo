@@ -7,17 +7,17 @@ sudo apt install ros-humble-nav2-bringup
 
 sudo apt install ros-humble-navigation2
 
-sudo apt install ros2-humble-ros2-controllers
+sudo apt install ros-humble-ros2-controllers
 
-sudo apt install ros2-humble-ros2-control
+sudo apt install ros-humble-ros2-control
 
 sudo apt install gazebo
 
-sudo apt install ros2-humble-gazebo-ros-pkgs
+sudo apt install ros-humble-gazebo-ros-pkgs
 
-sudo apt install ros2-humble-gazebo-ros2-control
+sudo apt install ros-humble-gazebo-ros2-control
 
-sudo apt install ros2-humble-xacro
+sudo apt install ros-humble-xacro
 ```
 
 ## After Installing 
